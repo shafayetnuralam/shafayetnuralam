@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help Dart
 
-- 💬 Ask me about *:)*
-
 - 📫 How to reach me *shapanuralam@gmail.com*
 
 
@@ -26,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafayetnuralam&show_icons=true&locale=en" alt="shafayetnuralam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafayetnuralam&" alt="shafayetnuralam" /></p>
+
+<h3 align="left">Languages and Tools:</h3>
