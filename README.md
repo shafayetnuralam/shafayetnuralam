@@ -25,4 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafayetnuralam&" alt="shafayetnuralam" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
