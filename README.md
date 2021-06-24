@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *ERP*
 
-- 👯 I’m looking to collaborate <a href="https://www.mysql.com" target="_blank"> MYSQL </a>
+- 👯 I’m looking to collaborate <a href="https://www.php.net" target="_blank"> PHP </a>  & <a href="https://www.mysql.com" target="_blank"> MYSQL </a> 
 
 - 🤝 I’m looking for help <a href="https://dart.dev" target="_blank"> Dart </a>
 
