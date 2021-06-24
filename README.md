@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on *ERP*
 
-- 👯 I’m looking to collaborate MYSQL
+- 👯 I’m looking to collaborate <a href="https://www.mysql.com" target="_blank"> MYSQL </a>
 
-- 🤝 I’m looking for help Dart
+- 🤝 I’m looking for help <a href="https://dart.dev" target="_blank"> Dart </a>
 
 - 📫 How to reach me *shapanuralam@gmail.com*
 
@@ -18,9 +18,8 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 	<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-    <a href="https://flutter.dev" target="_blank"> <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/02/7-2.jpg" alt="flutter"  height="40"/> </a> 
-<a href="https://developers.google.com/profile/u/100830266405063441910?authuser=1&utm_source=developer.android.com" target="_blank"> <img src="https://mannprerak2.github.io/project/ffigen/featured_hu669ebbb9f3bb01523e5e248a5e5a1528_67296_720x0_resize_lanczos_2.png" alt="android"  height="40"/> </a> 
-<a href="https://dart.dev" target="_blank"> <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/02/7-2.jpg" alt="flutter"  height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank"> <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/02/7-2.jpg" alt="flutter"  height="40"/> </a> 
+<a href="https://dart.dev" target="_blank"> <img src="https://media.onlinecoursebay.com/2019/03/25052450/2175862_b6cc_4-750x405.jpg" alt="dart"  height="40"/> </a> 
 <a href="https://developers.google.com/profile/u/100830266405063441910?authuser=1&utm_source=developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/712px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="android"  height="40"/> </a> 
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafayetnuralam&show_icons=true&locale=en" alt="shafayetnuralam" /></p>
