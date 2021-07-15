@@ -23,11 +23,11 @@
 <a href="https://developers.google.com/profile/u/100830266405063441910?authuser=1&utm_source=developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/712px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="android"  height="40"/> </a> 
 </p>
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shafayetnuralam&count_private=true&show_icons=true&theme=tokyonight">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafayetnuralam&show_icons=true&locale=en&theme=tokyonight" alt="shafayetnuralam" />
-</a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shafayetnuralam&hide=php&theme=tokyonight">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shafayetnuralam&theme=tokyonight" />
+</a>	
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shafayetnuralam&count_private=true&show_icons=true&theme=tokyonight">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafayetnuralam&show_icons=true&locale=en&theme=tokyonight" alt="shafayetnuralam" />
 </a>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafayetnuralam&theme=tokyonight" alt="shafayetnuralam" /></p>
