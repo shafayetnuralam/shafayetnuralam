@@ -24,7 +24,7 @@
 </p>
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shafayetnuralam&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shafayetnuralam&hide=php&theme=tokyonight" />
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shafayetnuralam&theme=tokyonight" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shafayetnuralam&count_private=true&show_icons=true&theme=tokyonight">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shafayetnuralam&show_icons=true&locale=en&theme=tokyonight" alt="shafayetnuralam" />
