@@ -30,5 +30,4 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shafayetnuralam&show_icons=true&locale=en&theme=tokyonight" alt="shafayetnuralam" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafayetnuralam&theme=tokyonight" alt="shafayetnuralam" /></p>
-<p><img align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shafayetnuralam&theme=tokyonight" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shafayetnuralam&theme=tokyonight" /></p>
