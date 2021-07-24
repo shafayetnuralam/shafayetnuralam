@@ -28,6 +28,9 @@
 <a href="https://dart.dev" target="_blank"> <img src="https://media.onlinecoursebay.com/2019/03/25052450/2175862_b6cc_4-750x405.jpg" alt="dart"  height="40"/> </a> 
 <a href="https://developers.google.com/profile/u/100830266405063441910?authuser=1&utm_source=developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/712px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="android"  height="40"/> </a> 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shafayetnuralam&show_icons=true&locale=en&theme=tokyonight" alt="shafayetnuralam" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafayetnuralam&theme=tokyonight" alt="shafayetnuralam" /></p>
+<div>
+<img   width="50%" src="https://github-readme-stats.vercel.app/api?username=shafayetnuralam&show_icons=true&locale=en&theme=tokyonight" alt="shafayetnuralam" />
+<img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shafayetnuralam&theme=tokyonight" alt="shafayetnuralam" />
+</div>
+<p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shafayetnuralam&theme=tokyonight" /></p>
