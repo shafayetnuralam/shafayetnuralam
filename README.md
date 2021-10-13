@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shafayet Nur Alam</h1>
 <h3 align="center">A Passionate Full-Stack Developer From Bangladesh</h3>
-
 - 🔭 I’m currently working on *ERP*
 
 - 👯 I’m looking to collaborate <a href="https://www.php.net" target="_blank"> PHP </a>  & <a href="https://www.mysql.com" target="_blank"> MYSQL </a> 
@@ -32,5 +31,5 @@
 <img   width="50%" src="https://github-readme-stats.vercel.app/api?username=shafayetnuralam&show_icons=true&locale=en&theme=tokyonight" alt="shafayetnuralam" />
 <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shafayetnuralam&theme=tokyonight" alt="shafayetnuralam" />
 </div>
-<p></p>
+<h2 ><img src="https://wakatime.com/badge/user/d2102474-dbac-4b8e-9c14-6d27208987ff.svg" alt="css3" width="300" height="40"/></h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shafayetnuralam&theme=tokyonight" /></p>
