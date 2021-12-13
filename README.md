@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shafayet Nur Alam</h1>
 <h3 align="center">A Passionate Full-Stack Developer From Bangladesh</h3>
 - 🔭 I’m currently working on *ERP*
-
+<a href="https://app.daily.dev/shafayetnuralam"><img src="https://api.daily.dev/devcards/8be31cefc47c46f58ba541818d3dde36.png?r=bwy" width="400" alt="Shafayet Nur Alam's Dev Card"/></a>
 - 👯 I’m looking to collaborate <a href="https://www.php.net" target="_blank"> PHP </a>  & <a href="https://www.mysql.com" target="_blank"> MYSQL </a> 
 
 - 🤝 I’m looking for help  <a href="https://dart.dev" target="_blank"> Dart Language </a> With <a href="https://flutter.dev" target="_blank"> Flatter </a>
