@@ -18,12 +18,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/html5.svg" alt="html5" width="40" height="40"/> </a>
-	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/css3.svg" alt="css3" width="40" height="40"/> </a> 
-	<a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
-	<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/mysql.svg" alt="mysql" width="40" height="40"/> </a> 
-	<a href="https://www.php.net" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/php.svg" alt="php" width="40" height="40"/> </a> 
+	<a href="https://www.w3.org/html/" target="_blank" title="HTML5"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/html5.svg" alt="html5" width="40" height="40"/> </a>
+	<a href="https://www.w3schools.com/css/" target="_blank" title="CSS3"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/css3.svg" alt="css3" width="40" height="40"/> </a> 
+	<a href="https://getbootstrap.com" target="_blank" title="Bootstrap"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Javascript"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
+	<a href="https://www.mysql.com/" target="_blank" title="Mysql"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/mysql.svg" alt="mysql" width="40" height="40"/> </a> 
+	<a href="https://www.php.net" target="_blank" title="PHP"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/php.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/02/7-2.jpg" alt="flutter"  height="40"/> </a> 
 <a href="https://dart.dev" target="_blank"> <img src="https://media.onlinecoursebay.com/2019/03/25052450/2175862_b6cc_4-750x405.jpg" alt="dart"  height="40"/> </a> 
 <a href="https://developers.google.com/profile/u/100830266405063441910?authuser=1&utm_source=developer.android.com" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/android.svg" alt="android"  height="40"/> </a> 
