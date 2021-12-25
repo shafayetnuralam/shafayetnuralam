@@ -20,13 +20,14 @@
 <p align="left">
 	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/html5.svg" alt="html5" width="40" height="40"/> </a>
 	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/css3.svg" alt="css3" width="40" height="40"/> </a> 
-	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+	<a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-	<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+	<a href="https://www.php.net" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/php.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/02/7-2.jpg" alt="flutter"  height="40"/> </a> 
 <a href="https://dart.dev" target="_blank"> <img src="https://media.onlinecoursebay.com/2019/03/25052450/2175862_b6cc_4-750x405.jpg" alt="dart"  height="40"/> </a> 
-<a href="https://developers.google.com/profile/u/100830266405063441910?authuser=1&utm_source=developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/712px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="android"  height="40"/> </a> 
+<a href="https://developers.google.com/profile/u/100830266405063441910?authuser=1&utm_source=developer.android.com" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/android.svg" alt="android"  height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/git.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
 <div>
