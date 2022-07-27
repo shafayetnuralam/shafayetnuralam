@@ -35,5 +35,5 @@
 <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shafayetnuralam&theme=tokyonight" alt="shafayetnuralam" />
 </div>
 <a href="https://app.daily.dev/shafayetnuralam"><img src="https://api.daily.dev/devcards/8be31cefc47c46f58ba541818d3dde36.png?r=bwy" width="400" alt="Shafayet Nur Alam's Dev Card"/></a>
-<h2 ><img src="https://wakatime.com/badge/user/d2102474-dbac-4b8e-9c14-6d27208987ff.svg" alt="css3" width="300" height="40"/></h2>
+<h2 ><img src="https://komarev.com/ghpvc/?username=shafayetnuralam&label=PROFILE+VIEWS" alt="css3" width="250" height="40"/>&nbsp;<img src="https://wakatime.com/badge/user/d2102474-dbac-4b8e-9c14-6d27208987ff.svg" alt="css3" width="300" height="40"/></h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shafayetnuralam&theme=tokyonight" /></p>
