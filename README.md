@@ -24,10 +24,10 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Javascript"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
 	<a href="https://www.mysql.com/" target="_blank" title="Mysql"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/mysql.svg" alt="mysql" width="40" height="40"/> </a> 
 	<a href="https://www.php.net" target="_blank" title="PHP"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/php.svg" alt="php" width="40" height="40"/> </a> 
-	<a href="https://flutter.dev" target="_blank" title="Flutter" > <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" height="40"/> </a> 
-	<a href="https://dart.dev" target="_blank" Title="Dart"> <img src="https://w7.pngwing.com/pngs/649/174/png-transparent-dart-google-developers-flutter-android-darts-text-logo-web-application.png" alt="dart"   height="40"/> </a> 
-	<a href="https://developers.google.com/profile/u/100830266405063441910?authuser=1&utm_source=developer.android.com" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/android.svg" alt="android"  height="40"/> </a> 
-	<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/git.svg" alt="git" width="40" height="40"/> </a> 
+	<a href="https://flutter.dev" target="_blank" title="Flutter" > <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter"  width="40" height="40"/> </a> 
+	<a href="https://dart.dev" target="_blank" Title="Dart"> <img src="https://w7.pngwing.com/pngs/649/174/png-transparent-dart-google-developers-flutter-android-darts-text-logo-web-application.png" alt="dart"   width="40" height="40"/> </a> 
+	<a href="https://developers.google.com/profile/u/100830266405063441910?authuser=1&utm_source=developer.android.com" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/android.svg" alt="android"  width="40" height="40"/> </a> 
+	<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/Sp0ne/codeicons/blob/master/svg/git.svg" alt="git" width="50" height="40"/> </a> 
 </p>
 
 <div>
